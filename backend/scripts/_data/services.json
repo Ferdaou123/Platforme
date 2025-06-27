@@ -1,0 +1,33 @@
+[
+    {
+      "_id": "5d725a037b292f5f8ceff787",
+      "nomService": "Service de la Voirie",
+      "description": "Responsable de l'entretien des routes et des trottoirs",
+      "technicienAssigné": ["5d7a514b5d2c12c7449be043"]
+    },
+    {
+      "_id": "5d725a037b292f5f8ceff788",
+      "nomService": "Service de la Propreté",
+      "description": "Responsable de la collecte des déchets et de la propreté urbaine"
+    },
+    {
+      "_id": "5d725a037b292f5f8ceff789",
+      "nomService": "Service des Espaces Verts",
+      "description": "Responsable de l'entretien des espaces verts et des plantations"
+    },
+    {
+      "_id": "5d725a037b292f5f8ceff78a",
+      "nomService": "Service de l'Éclairage Public",
+      "description": "Responsable de l'entretien et du développement de l'éclairage public"
+    },
+    {
+      "_id": "5d725a037b292f5f8ceff78b",
+      "nomService": "Service de l'Eau et Assainissement",
+      "description": "Responsable des réseaux d'eau potable et d'assainissement"
+    },
+    {
+      "_id": "5d725a037b292f5f8ceff78c",
+      "nomService": "Service de la Signalisation",
+      "description": "Responsable de la signalisation routière et des feux de circulation"
+    }
+  ]

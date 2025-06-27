@@ -1,0 +1,50 @@
+[
+    {
+      "_id": "5d713995b721c3bb38c1f5d0",
+      "nomCategorie": "Éclairage Public",
+      "description": "Problèmes liés à l'éclairage des rues et espaces publics",
+      "icone": "lightbulb.png"
+    },
+    {
+      "_id": "5d713995b721c3bb38c1f5d1",
+      "nomCategorie": "Propreté",
+      "description": "Déchets, ordures et nettoyage des espaces publics",
+      "icone": "trash.png"
+    },
+    {
+      "_id": "5d713995b721c3bb38c1f5d2",
+      "nomCategorie": "Voirie",
+      "description": "Problèmes liés à la chaussée, trottoirs et infrastructures routières",
+      "icone": "road.png"
+    },
+    {
+      "_id": "5d713995b721c3bb38c1f5d3",
+      "nomCategorie": "Espaces Verts",
+      "description": "Entretien des jardins, parcs et espaces verts",
+      "icone": "tree.png"
+    },
+    {
+      "_id": "5d713995b721c3bb38c1f5d4",
+      "nomCategorie": "Mobilier Urbain",
+      "description": "Bancs, abribus, poubelles et autres équipements urbains",
+      "icone": "bench.png"
+    },
+    {
+      "_id": "5d713995b721c3bb38c1f5d5",
+      "nomCategorie": "Eau et Assainissement",
+      "description": "Problèmes liés à l'eau potable et aux égouts",
+      "icone": "water.png"
+    },
+    {
+      "_id": "5d713995b721c3bb38c1f5d6",
+      "nomCategorie": "Circulation",
+      "description": "Problèmes de circulation, embouteillages et signalisation",
+      "icone": "traffic-light.png"
+    },
+    {
+      "_id": "5d713995b721c3bb38c1f5d7",
+      "nomCategorie": "Sécurité",
+      "description": "Problèmes liés à la sécurité publique",
+      "icone": "shield.png"
+    }
+  ]

@@ -1,0 +1,47 @@
+[
+    {
+      "titre": "Lampadaire cassé",
+      "description": "Le lampadaire ne fonctionne plus depuis plusieurs jours",
+      "position": {
+        "type": "Point",
+        "coordinates": [-9.7653, 31.5125],
+        "adresse": "Rue principale, Essaouira"
+      },
+      "statut": "attente",
+      "photoUrl": "no-photo.jpg",
+      "compteurVotes": 5,
+      "catégorie": null,
+      "utilisateur": null,
+      "service": null
+    },
+    {
+      "titre": "Nid de poule dangereux",
+      "description": "Grand nid de poule qui représente un danger pour les véhicules",
+      "position": {
+        "type": "Point",
+        "coordinates": [-9.7683, 31.5131],
+        "adresse": "Avenue Mohammed V, Essaouira"
+      },
+      "statut": "cours",
+      "photoUrl": "no-photo.jpg",
+      "compteurVotes": 8,
+      "catégorie": null,
+      "utilisateur": null,
+      "service": null
+    },
+    {
+      "titre": "Débordement de poubelle",
+      "description": "La poubelle déborde et n'a pas été vidée depuis une semaine",
+      "position": {
+        "type": "Point",
+        "coordinates": [-9.7700, 31.5140],
+        "adresse": "Place Moulay Hassan, Essaouira"
+      },
+      "statut": "attente",
+      "photoUrl": "no-photo.jpg",
+      "compteurVotes": 3,
+      "catégorie": null,
+      "utilisateur": null,
+      "service": null
+    }
+  ]

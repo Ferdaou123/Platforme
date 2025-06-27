@@ -1,0 +1,31 @@
+[
+    {
+      "_id": "5d7a514b5d2c12c7449be042",
+      "nom": "Admin User",
+      "email": "admin@essaouirafix.ma",
+      "rôle": "admin",
+      "mot_de_passe": "123456"
+    },
+    
+    {
+      "_id": "5d7a514b5d2c12c7449be044",
+      "nom": "Citoyen User",
+      "email": "citoyen@essaouirafix.ma",
+      "rôle": "citoyen",
+      "mot_de_passe": "123456"
+    },
+    {
+      "_id": "5d7a514b5d2c12c7449be045",
+      "nom": "Mohammed Alami",
+      "email": "mohammed@gmail.com",
+      "rôle": "citoyen",
+      "mot_de_passe": "123456"
+    },
+    {
+      "_id": "5d7a514b5d2c12c7449be046",
+      "nom": "Fatima Zahra",
+      "email": "fatima@gmail.com",
+      "rôle": "citoyen",
+      "mot_de_passe": "123456"
+    }
+  ]
